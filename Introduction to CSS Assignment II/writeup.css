@@ -1,0 +1,35 @@
+.Entire{
+    background-color: white;
+}
+.first_section{
+    font-size: 14px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 15px;
+    border-width: 10px;
+    padding: 25px;
+    color: green;
+    margin-bottom: 5px;
+}
+.second_section{
+    font-size: 14px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 15px;
+    border-width: 10px;
+    padding: 25px;
+    color: red;
+    margin-bottom: 5px;
+}
+li {
+    margin-bottom: 10px;
+}
+.third_section{
+    font-size: 14px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 15px;
+    border-width: 10px;
+    padding: 25px;
+    color: blue;
+}
